@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: 放心购商城
+  profiles:
+    active: dev
